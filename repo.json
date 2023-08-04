@@ -1,0 +1,9 @@
+{
+    "name": "hackyducky repository",
+    "description": "From Non-english Plugin Repository",
+    "manifestVersion": 1,
+    "pluginLists": [
+	"https://github.com/hackyducky/testrepo/raw/builds/plugins.json"
+    ]
+}
+

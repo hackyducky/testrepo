@@ -1,0 +1,39 @@
+[
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=nopay.info&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/hackyducky/testrepo",
+        "fileSize": 14241,
+        "status": 1,
+        "language": "it",
+        "authors": [
+            "Adippe"
+        ],
+        "tvTypes": [
+            "Live"
+        ],
+        "version": 3,
+        "internalName": "NoPayProvider",
+        "url": "https://raw.githubusercontent.com/hackyducky/testrepo/builds/NoPayProvider.cs3",
+        "name": "NoPayProvider"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=streamingcommunity.gold&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/hackyducky/testrepo",
+        "fileSize": 29612,
+        "status": 1,
+        "language": "it",
+        "authors": [
+            "Adippe"
+        ],
+        "tvTypes": [
+            "TvSeries",
+            "Movie"
+        ],
+        "version": 6,
+        "internalName": "StreamingcommunityProvider",
+        "url": "https://raw.githubusercontent.com/hackyducky/testrepo/builds/StreamingcommunityProvider.cs3",
+        "name": "StreamingcommunityProvider"
+    }
+]
